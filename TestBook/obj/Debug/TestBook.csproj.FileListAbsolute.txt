@@ -1,0 +1,8 @@
+C:\Users\Admin\source\repos\DemoInterator\TestBook\obj\Debug\TestBook.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\DemoInterator\TestBook\obj\Debug\TestBook.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\source\repos\DemoInterator\TestBook\obj\Debug\TestBook.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\DemoInterator\TestBook\bin\Debug\TestBook.exe.config
+C:\Users\Admin\source\repos\DemoInterator\TestBook\bin\Debug\TestBook.exe
+C:\Users\Admin\source\repos\DemoInterator\TestBook\bin\Debug\TestBook.pdb
+C:\Users\Admin\source\repos\DemoInterator\TestBook\obj\Debug\TestBook.exe
+C:\Users\Admin\source\repos\DemoInterator\TestBook\obj\Debug\TestBook.pdb

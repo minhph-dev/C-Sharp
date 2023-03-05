@@ -1,0 +1,8 @@
+C:\Users\Admin\source\repos\DemoInterator\PretestBook\bin\Debug\PretestBook.exe.config
+C:\Users\Admin\source\repos\DemoInterator\PretestBook\bin\Debug\PretestBook.exe
+C:\Users\Admin\source\repos\DemoInterator\PretestBook\bin\Debug\PretestBook.pdb
+C:\Users\Admin\source\repos\DemoInterator\PretestBook\obj\Debug\PretestBook.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\DemoInterator\PretestBook\obj\Debug\PretestBook.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\source\repos\DemoInterator\PretestBook\obj\Debug\PretestBook.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\DemoInterator\PretestBook\obj\Debug\PretestBook.exe
+C:\Users\Admin\source\repos\DemoInterator\PretestBook\obj\Debug\PretestBook.pdb

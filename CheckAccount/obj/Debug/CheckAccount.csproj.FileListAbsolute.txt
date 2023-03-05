@@ -1,0 +1,8 @@
+C:\Users\Admin\source\repos\Pretest\CheckAccount\bin\Debug\CheckAccount.exe.config
+C:\Users\Admin\source\repos\Pretest\CheckAccount\bin\Debug\CheckAccount.exe
+C:\Users\Admin\source\repos\Pretest\CheckAccount\bin\Debug\CheckAccount.pdb
+C:\Users\Admin\source\repos\Pretest\CheckAccount\obj\Debug\CheckAccount.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\Pretest\CheckAccount\obj\Debug\CheckAccount.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\source\repos\Pretest\CheckAccount\obj\Debug\CheckAccount.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Pretest\CheckAccount\obj\Debug\CheckAccount.exe
+C:\Users\Admin\source\repos\Pretest\CheckAccount\obj\Debug\CheckAccount.pdb

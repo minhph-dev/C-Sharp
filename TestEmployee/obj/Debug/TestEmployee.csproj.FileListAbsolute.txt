@@ -1,0 +1,8 @@
+C:\Users\Admin\source\repos\DemoInterator\TestEmployee\bin\Debug\TestEmployee.exe.config
+C:\Users\Admin\source\repos\DemoInterator\TestEmployee\bin\Debug\TestEmployee.exe
+C:\Users\Admin\source\repos\DemoInterator\TestEmployee\bin\Debug\TestEmployee.pdb
+C:\Users\Admin\source\repos\DemoInterator\TestEmployee\obj\Debug\TestEmployee.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\DemoInterator\TestEmployee\obj\Debug\TestEmployee.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\source\repos\DemoInterator\TestEmployee\obj\Debug\TestEmployee.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\DemoInterator\TestEmployee\obj\Debug\TestEmployee.exe
+C:\Users\Admin\source\repos\DemoInterator\TestEmployee\obj\Debug\TestEmployee.pdb

@@ -1,0 +1,8 @@
+C:\Users\Admin\source\repos\DemoInterator\PretestStudent\bin\Debug\PretestStudent.exe.config
+C:\Users\Admin\source\repos\DemoInterator\PretestStudent\bin\Debug\PretestStudent.exe
+C:\Users\Admin\source\repos\DemoInterator\PretestStudent\bin\Debug\PretestStudent.pdb
+C:\Users\Admin\source\repos\DemoInterator\PretestStudent\obj\Debug\PretestStudent.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\DemoInterator\PretestStudent\obj\Debug\PretestStudent.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\source\repos\DemoInterator\PretestStudent\obj\Debug\PretestStudent.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\DemoInterator\PretestStudent\obj\Debug\PretestStudent.exe
+C:\Users\Admin\source\repos\DemoInterator\PretestStudent\obj\Debug\PretestStudent.pdb
