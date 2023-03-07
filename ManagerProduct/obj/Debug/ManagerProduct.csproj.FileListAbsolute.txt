@@ -1,0 +1,8 @@
+C:\Users\Admin\source\repos\DemoInterator\ManagerProduct\bin\Debug\ManagerProduct.exe.config
+C:\Users\Admin\source\repos\DemoInterator\ManagerProduct\bin\Debug\ManagerProduct.exe
+C:\Users\Admin\source\repos\DemoInterator\ManagerProduct\bin\Debug\ManagerProduct.pdb
+C:\Users\Admin\source\repos\DemoInterator\ManagerProduct\obj\Debug\ManagerProduct.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\DemoInterator\ManagerProduct\obj\Debug\ManagerProduct.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\source\repos\DemoInterator\ManagerProduct\obj\Debug\ManagerProduct.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\DemoInterator\ManagerProduct\obj\Debug\ManagerProduct.exe
+C:\Users\Admin\source\repos\DemoInterator\ManagerProduct\obj\Debug\ManagerProduct.pdb
